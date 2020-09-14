@@ -38,7 +38,7 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-    <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=geekyshameem&show_icons=true&hide_border=true" />
+    <img align="left" alt="Shameem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=geekyshameem&show_icons=true&hide_border=true" />
 </details>
 
 [linkedin]: https://www.linkedin.com/in/muhammad-shameem-403b5b170
