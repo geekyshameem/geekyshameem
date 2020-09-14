@@ -35,9 +35,12 @@
 <img align="left" alt="Google" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" />
 
 <br />
+<br />
+<br />
+<br />
 
 <details>
-  <summary align="left">:zap: Github Stats</summary>
+  <summary>:zap: Github Stats</summary>
     <img align="left" alt="Shameem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=geekyshameem&show_icons=true&hide_border=true" />
 </details>
 
