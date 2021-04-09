@@ -2,10 +2,10 @@
 
 ## I'm a Developer and an AWS Admin!
 
-- 🔭 I’m currently working on AWS and Linux!
+- 🔭 I’m currently working on AWS and Azure!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other geeks! 
-- 🥅 2020 Goals: To Improve my Skills in Hybrid Cloud Architecture !
+- 🥅 2021 Goals: To Improve my Skills in Multi Cloud Architecture !
 - ⚡ Fun fact: I love to watch Formula 1 and Anime !
 - 🤓 Inspired by Lewis Hamilton and Vegeta !
 
