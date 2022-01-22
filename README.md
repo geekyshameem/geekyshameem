@@ -2,12 +2,12 @@
 
 ## I'm a Developer and an AWS Admin!
 
-- 🔭 I’m currently working on AWS and Azure!
+- 🔭 I’m currently working on AWS and Azure and GCP!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other geeks! 
-- 🥅 2021 Goals: To Improve my Skills in Multi Cloud Architecture !
+- 🥅 2022 Goals: To Improve my Skills in Multi/Hybrid Cloud Architecture and Cloud Automation !
 - ⚡ Fun fact: I love to watch Formula 1 and Anime !
-- 🤓 Inspired by Lewis Hamilton and Vegeta !
+- 🤓 Inspired by Lewis Hamilton and Light Yagami !
 
 ### Connect with me:
 
@@ -42,4 +42,4 @@
     <img align="left" alt="Shameem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=geekyshameem&show_icons=true&hide_border=true" />
 </details>
 
-[linkedin]: https://www.linkedin.com/in/muhammad-shameem-403b5b170
+[linkedin]: https://www.linkedin.com/in/muhammad-shameem/
