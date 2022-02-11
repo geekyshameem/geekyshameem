@@ -1,6 +1,6 @@
 ### Hi there, I'm Shameem 👋
 
-## I'm a Developer and an AWS Admin!
+## I'm a Cloud DevOps Engineer
 
 - 🔭 I’m currently working on AWS and Azure and GCP!
 - 🌱 I’m currently learning everything 🤣
