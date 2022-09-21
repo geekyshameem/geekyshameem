@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate with other geeks! 
 - 🥅 2022 Goals: To Improve my Skills in Multi/Hybrid Cloud Architecture and Cloud Automation !
 - ⚡ Fun fact: I love to watch Formula 1 and Anime !
-- 🤓 Inspired by Lewis Hamilton and Light Yagami !
+- 🤓 Inspired by Lewis Hamilton!
 
 ### Connect with me:
 
