@@ -3,12 +3,10 @@
 ## I'm a Senior DevOps Engineer
 
 - 🔭 I’m currently working on as a DevSecOps Engineer
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other geeks! 
-- 🥅 2025 Goals: To Improve my Skills in Multi/Hybrid Cloud Architecture and Cloud Automation !
-- ⚡ Fun fact: I love to watch Formula 1 and Anime !
-- 🤓 Inspired by Lewis Hamilton!
-
+- Enterprise Platform Engineering
+- Enterprise tooling
+- DevSecOps
+- Azure Policies
 ### Connect with me:
 
 [<img align="left" alt="Shameem | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
