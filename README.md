@@ -2,7 +2,7 @@
 
 ## I'm a Senior DevOps Engineer
 
-- 🔭 I’m currently working on as a DevSecOps Engineer
+- 🔭 I’m currently working as a DevSecOps Engineer
 - Enterprise Platform Engineering
 - Enterprise tooling
 - DevSecOps
